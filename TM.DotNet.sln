@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TM.DotNet", "TM.DotNet\TM.DotNet.csproj", "{88F80901-0887-4E61-9E9B-203FE9D4C6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TM.APP.UI", "TM.APP.UI\TM.APP.UI.csproj", "{144670CB-6396-488C-A76D-2E03A3B69E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F80901-0887-4E61-9E9B-203FE9D4C6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F80901-0887-4E61-9E9B-203FE9D4C6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F80901-0887-4E61-9E9B-203FE9D4C6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F80901-0887-4E61-9E9B-203FE9D4C6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144670CB-6396-488C-A76D-2E03A3B69E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144670CB-6396-488C-A76D-2E03A3B69E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144670CB-6396-488C-A76D-2E03A3B69E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144670CB-6396-488C-A76D-2E03A3B69E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A618FE4-95A9-4D4A-8D12-B4CB7CFDA657}
+	EndGlobalSection
+EndGlobal
