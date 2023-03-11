@@ -14,14 +14,14 @@ namespace TM.APP.UI.ViewModels
    
     public partial class HomeViewModel : ViewModel
     {
-        private readonly TmDbContext _tmDbContext;
+        //private readonly TmDbContext _tmDbContext;
       
 
        
-        public HomeViewModel(TmDbContext dbContext)
+        public HomeViewModel()
         {
 
-            _tmDbContext = dbContext;
+            //_tmDbContext = dbContext;
 
         }
     }
